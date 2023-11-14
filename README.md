@@ -6,7 +6,7 @@
 
 <h2>Integrantes:</h2>
 
-<h3>Leandra Massien González Uraldes</h3>
+<h3>Leandra Massiel González Uraldes</h3>
 
 <h3>Eliannis Garcia Rodriguez</h3>
 
