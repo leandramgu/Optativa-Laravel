@@ -6,10 +6,10 @@
 
 <h2>Integrantes:</h2>
 
-<h3>Leandra Massiel González Uraldes</h3>
+<h3> Leandra Massiel González Uraldes</h3>
 
-<h3>Eliannis Garcia Rodriguez</h3>
+<h3> Eliannis Garcia Rodriguez</h3>
 
-<h3>Yoamy de la Caridad Agüero Nocedo</h3>
+<h3> Yoamy de la Caridad Agüero Nocedo</h3>
 
 
